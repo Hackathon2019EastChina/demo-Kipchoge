@@ -1,3 +1,6 @@
 [submodule "be_demo"]
 	path = be_demo
 	url = https://github.com/superfreeeee/hackthon2019demo_be
+[submodule "fe_demo"]
+	path = fe_demo
+	url = https://github.com/superfreeeee/hackthon2019demo
